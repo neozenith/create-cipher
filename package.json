@@ -1,0 +1,14 @@
+{
+  "name": "create-cipher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Peak",
+  "license": "ISC",
+  "dependencies": {
+    "evp_bytestokey": "^1.0.3"
+  }
+}
